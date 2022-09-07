@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-07T12:06:27.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ABZO2_QTNVyo6rriNISL" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-07T12:08:18.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="uS7JtR6n9vpcznunhtMr" version="20.2.7" type="github" pages="3">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2032" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_K2lj9XjAB0e-HPy2IHQ" name="Page-2">
-    <mxGraphModel dx="1073" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1132" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
         <mxCell id="33VBFZ5juifSx7iwHTRm-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="33VBFZ5juifSx7iwHTRm-17" target="33VBFZ5juifSx7iwHTRm-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33VBFZ5juifSx7iwHTRm-17" value="apollo配置关注的特殊人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="33VBFZ5juifSx7iwHTRm-17" value="apollo配置关注的特殊人员&lt;br&gt;关注的方法设置报错提醒apollo配置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="33VBFZ5juifSx7iwHTRm-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;" edge="1" parent="1" source="33VBFZ5juifSx7iwHTRm-1" target="33VBFZ5juifSx7iwHTRm-17">
