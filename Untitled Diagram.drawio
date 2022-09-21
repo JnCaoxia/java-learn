@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T03:31:19.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="OjXURw2iLMLusJf9xs5A" version="20.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-21T08:56:44.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="HaPoc0SkrkCi1Yk6WD2C" version="20.2.7" type="github" pages="4">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
-    <mxGraphModel dx="1948" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_K2lj9XjAB0e-HPy2IHQ" name="Page-2">
-    <mxGraphModel dx="1733" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o46wO4NXbAc2YVawDmCJ" name="Page-3">
-    <mxGraphModel dx="1037" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,6 +380,49 @@
         </mxCell>
         <mxCell id="zvS_vwDBDEuqLqWEvAfq-34" value="作为全链路日志跟踪较cat更为强劲" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="560" y="510" width="270" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bv7mK1aKa2Uo0mDSquKB" name="第 4 页">
+    <mxGraphModel dx="1082" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="6glr1lZ9rGzaMNGm7g-d-1" target="6glr1lZ9rGzaMNGm7g-d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-1" value="es服务" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="6glr1lZ9rGzaMNGm7g-d-2" target="6glr1lZ9rGzaMNGm7g-d-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="603" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-7" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="6glr1lZ9rGzaMNGm7g-d-5">
+          <mxGeometry x="-0.2348" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=16;fontColor=default;" edge="1" parent="1" source="6glr1lZ9rGzaMNGm7g-d-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="583" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-10" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="6glr1lZ9rGzaMNGm7g-d-8">
+          <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-2" value="care db.table?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="353" y="190" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-6" value="RocketMq" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="583" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-9" value="End" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="583" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
