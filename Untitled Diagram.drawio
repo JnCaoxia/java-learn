@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T09:09:36.852Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="p69pDjCYBf2EstZdjcbf" version="20.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-21T09:09:44.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KLIHW7Y5x9Z7ghMrr7kT" version="20.2.7" type="github" pages="4">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="1773" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
           <mxGeometry y="30" width="239" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-21" value="MessageDetail" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="930" y="50" width="239" height="150" as="geometry">
+          <mxGeometry x="890" y="50" width="239" height="150" as="geometry">
             <mxRectangle x="950" y="50" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
