@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T09:10:02.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wMgK9hyY2tpgJ65VCZ0h" version="20.2.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-09-21T09:10:21.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8KmvrpMxz3BSDX2awWcx" version="20.2.7" type="github" pages="4">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="1773" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -423,7 +423,7 @@
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;fontColor=default;" edge="1" parent="1" source="6glr1lZ9rGzaMNGm7g-d-12" target="6glr1lZ9rGzaMNGm7g-d-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6glr1lZ9rGzaMNGm7g-d-12" value="BinLogMsg" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="6glr1lZ9rGzaMNGm7g-d-12" value="BinLogMsg" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="691" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-14" value="End" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -433,14 +433,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-18" value="BinLogMsg" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="631" y="50" width="239" height="150" as="geometry" />
+          <mxGeometry x="631" y="50" width="239" height="150" as="geometry">
+            <mxRectangle x="631" y="50" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-19" value="String schemaName 库名&#xa;String tableName 表名&#xa;List&lt;MessageDetail&gt; beforeColumnList &#xa;变更之前的字段列表 &#xa;List&lt;MessageDetail&gt; afterColumnLst &#xa;变更之后的字段列表&#xa;CanalEntry.EventType eventType 事件类型&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="6glr1lZ9rGzaMNGm7g-d-18">
           <mxGeometry y="30" width="239" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-21" value="MessageDetail" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="890" y="50" width="239" height="150" as="geometry">
-            <mxRectangle x="950" y="50" width="110" height="30" as="alternateBounds" />
+            <mxRectangle x="890" y="50" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-22" value="String name  字段名&#xa;String value 字段值&#xa;boolean isUpdated 字段是否更新&#xa;boolean isKey  是否主键&#xa;boolean isNull  是否为空&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="6glr1lZ9rGzaMNGm7g-d-21">
