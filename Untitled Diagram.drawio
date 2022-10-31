@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T12:34:23.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="iE6AJjUYnP3vA4e_Eb-v" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-31T12:38:58.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_pusoGOtrRGbH4kOXcsd" version="20.4.0" type="github" pages="5">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2241" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,7 +437,7 @@
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="6glr1lZ9rGzaMNGm7g-d-12" target="lfo5E9FoAvwnwpLx9IKp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-15" value="receive msg" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="lfo5E9FoAvwnwpLx9IKp-14">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;receive msg&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="lfo5E9FoAvwnwpLx9IKp-14">
           <mxGeometry x="-0.0929" y="-2" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -497,16 +497,16 @@
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-9" target="lfo5E9FoAvwnwpLx9IKp-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-9" value="BinLogHelper解析器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;BinLogHelper解析器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1200" y="230" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-11" value="topic : ehr_binlog_change_topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="920" y="210" width="280" height="40" as="geometry" />
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;topic : ehr_binlog_change_topic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="950" y="210" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-16" value="tag: ehrsearch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;tag: ehrsearch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="950" y="290" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-17" value="which field you care" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;which field you care&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1300" y="70" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-21" target="lfo5E9FoAvwnwpLx9IKp-25">
@@ -514,18 +514,18 @@
             <mxPoint x="1240" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-21" value="string field change" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;string field change&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1090" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-22">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-22" target="lfo5E9FoAvwnwpLx9IKp-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1260" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-22" value="Long field change" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Long field change&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1290" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-25" value="handle your logic code" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;handle your logic code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1195" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
