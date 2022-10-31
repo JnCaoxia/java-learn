@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T12:39:55.503Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="2vQu1L03YArL9e9c2em5" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-10-31T12:49:53.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="69U70da0xyQjpo4Yp1_Y" version="20.4.0" type="github" pages="5">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2241" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -452,16 +452,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-18" value="BinLogMsg" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="596" y="50" width="239" height="150" as="geometry">
-            <mxRectangle x="641" y="50" width="110" height="30" as="alternateBounds" />
+          <mxGeometry x="620" y="40" width="239" height="150" as="geometry">
+            <mxRectangle x="596" y="50" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-19" value="String schemaName 库名&#xa;String tableName 表名&#xa;List&lt;MessageDetail&gt; beforeColumnList &#xa;变更之前的字段列表 &#xa;List&lt;MessageDetail&gt; afterColumnLst &#xa;变更之后的字段列表&#xa;CanalEntry.EventType eventType 事件类型&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Helvetica;fontColor=default;" parent="6glr1lZ9rGzaMNGm7g-d-18" vertex="1">
           <mxGeometry y="30" width="239" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-21" value="MessageDetail" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="855" y="50" width="239" height="150" as="geometry">
-            <mxRectangle x="900" y="50" width="110" height="30" as="alternateBounds" />
+          <mxGeometry x="911" y="40" width="239" height="150" as="geometry">
+            <mxRectangle x="855" y="50" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-22" value="String name  字段名&#xa;String value 字段值&#xa;boolean isUpdated 字段是否更新&#xa;boolean isKey  是否主键&#xa;boolean isNull  是否为空&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Helvetica;fontColor=default;" parent="6glr1lZ9rGzaMNGm7g-d-21" vertex="1">
@@ -498,8 +498,11 @@
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-9" target="lfo5E9FoAvwnwpLx9IKp-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qLH6umaSHECwsn4W-bYA-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-9" target="qLH6umaSHECwsn4W-bYA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;BinLogHelper解析器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="230" width="110" height="70" as="geometry" />
+          <mxGeometry x="1155" y="230" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;topic : ehr_binlog_change_topic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="905" y="210" width="220" height="40" as="geometry" />
@@ -524,10 +527,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Long field change&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="1255" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;handle your logic code&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1150" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qLH6umaSHECwsn4W-bYA-3" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="372.5" width="60" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
