@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T12:55:53.595Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wzAE9WiAD3wU5EnTxhHQ" version="20.4.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-01T02:04:21.151Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="3sO3GZc72vLLz9q32DjN" version="20.4.0" type="github" pages="5">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2241" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,7 +463,7 @@
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-21" value="MessageDetail" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontFamily=Helvetica;fontColor=default;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="911" y="40" width="239" height="150" as="geometry">
-            <mxRectangle x="855" y="50" width="110" height="30" as="alternateBounds" />
+            <mxRectangle x="911" y="40" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6glr1lZ9rGzaMNGm7g-d-22" value="String name  字段名&#xa;String value 字段值&#xa;boolean isUpdated 字段是否更新&#xa;boolean isKey  是否主键&#xa;boolean isNull  是否为空&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontFamily=Helvetica;fontColor=default;" parent="6glr1lZ9rGzaMNGm7g-d-21" vertex="1">
@@ -486,8 +486,8 @@
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;canal binlog&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="310" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-7" value="fail retry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="555" y="370" width="90" height="20" as="geometry" />
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;fail retry&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-9" target="lfo5E9FoAvwnwpLx9IKp-17">
           <mxGeometry relative="1" as="geometry" />
@@ -503,7 +503,7 @@
         <mxCell id="qLH6umaSHECwsn4W-bYA-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-9" target="qLH6umaSHECwsn4W-bYA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lfo5E9FoAvwnwpLx9IKp-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;BinLogHelper解析器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="lfo5E9FoAvwnwpLx9IKp-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;BinLogHelper&lt;br&gt;解析器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1155" y="230" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;topic : ehr_binlog_change_topic&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
@@ -513,7 +513,7 @@
           <mxGeometry x="905" y="280" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;which field you care&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1255" y="70" width="150" height="100" as="geometry" />
+          <mxGeometry x="1240" y="80" width="185" height="110" as="geometry" />
         </mxCell>
         <mxCell id="lfo5E9FoAvwnwpLx9IKp-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lfo5E9FoAvwnwpLx9IKp-21" target="lfo5E9FoAvwnwpLx9IKp-25">
           <mxGeometry relative="1" as="geometry">
