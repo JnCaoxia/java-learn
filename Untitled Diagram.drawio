@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T09:54:06.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ga6cUo7kkl68EL-ZT1xu" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:48:10.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WuENJTh-1QNSBfwPBirl" version="20.5.3" type="github" pages="5">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2222" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -385,7 +385,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bv7mK1aKa2Uo0mDSquKB" name="第 4 页">
-    <mxGraphModel dx="1186" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1532" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,12 +556,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fzEsJtHV_mV7jSr7TMFq" name="第 5 页">
-    <mxGraphModel dx="1186" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TmPQT6qUo4W9ctWkveqM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EuF4LGBbJLJABE5s0PSO-1" target="TmPQT6qUo4W9ctWkveqM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EuF4LGBbJLJABE5s0PSO-1" value="alarm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmPQT6qUo4W9ctWkveqM-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AbstractRocketMqAppender&lt;br&gt;topic:alarm_message_producer&lt;br&gt;producer_group:alarm_message_producer&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="162.5" width="280" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="TmPQT6qUo4W9ctWkveqM-4" value="MqProducer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="444" y="132.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
