@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T03:22:56.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5w9IYm6SJhrXNIa6HQFa" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-25T03:29:43.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="16C57-klyfsLDMOf7v3r" version="20.5.3" type="github" pages="5">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2222" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,7 +277,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o46wO4NXbAc2YVawDmCJ" name="Page-3">
-    <mxGraphModel dx="1414" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -653,6 +653,9 @@
         </mxCell>
         <mxCell id="iwTsfFxNOtXRmN2DS3t6-17" value="AlarmNoticeService" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iwTsfFxNOtXRmN2DS3t6-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;erp-common&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="910" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
