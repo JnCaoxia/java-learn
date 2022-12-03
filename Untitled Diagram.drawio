@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T12:37:05.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ZhU1JpdY9zNkbkc3CwjC" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-12-03T06:01:20.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6uZ6aw0tdOFUX0bRvlVf" version="20.5.3" type="github" pages="6">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2222" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -556,7 +556,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fzEsJtHV_mV7jSr7TMFq" name="第 5 页">
-    <mxGraphModel dx="1395" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,6 +687,137 @@
         </mxCell>
         <mxCell id="MAEbCtOsfS93M6oHpwsz-6" value="Notice url (catUrl + kinbanaUrl)&lt;br&gt;One-click access" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="420" y="513.75" width="200" height="102.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EvhUj0oRKVQxjh8AbrAl" name="第 6 页">
+    <mxGraphModel dx="1125" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-1" target="VF-O5Tl96aHXoR13xGbZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-1" target="VF-O5Tl96aHXoR13xGbZ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="260" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-7" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.6;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;startArrow=none;exitPerimeter=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-9" target="VF-O5Tl96aHXoR13xGbZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-1" value="离职解除&lt;br&gt;换签终止" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-12" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-3" target="VF-O5Tl96aHXoR13xGbZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-16" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-12">
+          <mxGeometry x="-0.1214" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-3" value="无需电子签署" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-4" target="VF-O5Tl96aHXoR13xGbZ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-17" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-11">
+          <mxGeometry x="-0.1214" y="6" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-4" value="完成盖章" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-6" value="个人签署" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.26;entryY=-0.062;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;endArrow=none;entryPerimeter=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-1" target="VF-O5Tl96aHXoR13xGbZ-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="170" as="sourcePoint" />
+            <mxPoint x="360" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-13" target="VF-O5Tl96aHXoR13xGbZ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-21" value="contractStatusTransferJob" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-19">
+          <mxGeometry x="-0.2231" y="2" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-13" value="主合同terminal_date" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-14" value="子合同 contract&amp;nbsp; id : parent_id terminal_date" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="115" y="90" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-18" value="同步终止日期到主合同上" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="172.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-22" value="合同状态流转job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="740" y="175" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-23" target="VF-O5Tl96aHXoR13xGbZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-28" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-27">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-30" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="905" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-31" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-30">
+          <mxGeometry x="-0.2412" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-23" value="now() &amp;gt; terminal_date" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="230" width="202.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-25" value="待生效、生效中、已过期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-26" value="流转状态&lt;br&gt;到&quot;已终止&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-32" value="End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="900" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456" y="489.5" as="targetPoint" />
+            <mxPoint x="240" y="489.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-35" value="常规主合同 + 合同&quot;已终止&quot;状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-34">
+          <mxGeometry x="-0.2364" y="-1" relative="1" as="geometry">
+            <mxPoint x="18" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-33" value="撤销附属协议（离职、换签终止）" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="114" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
