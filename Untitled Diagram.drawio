@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T07:08:33.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uOUzE7f3I009sFS0RlyH" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-03T08:15:05.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="GPC0V21ZkS8kbYkB2kbR" version="20.5.3" type="github" pages="6">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2222" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EvhUj0oRKVQxjh8AbrAl" name="第 6 页">
-    <mxGraphModel dx="1125" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1307" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,7 +844,7 @@
           <mxGeometry x="96.5" y="563" width="155" height="67" as="geometry" />
         </mxCell>
         <mxCell id="VF-O5Tl96aHXoR13xGbZ-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;主合同&lt;/span&gt;&quot;已终止&quot;状态&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="260" y="490" width="150" height="40" as="geometry" />
+          <mxGeometry x="251.5" y="490" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VF-O5Tl96aHXoR13xGbZ-45" value="1)合同终止日期清空&lt;br&gt;2) 恢复合同状态" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="690" y="453" width="150" height="57" as="geometry" />
