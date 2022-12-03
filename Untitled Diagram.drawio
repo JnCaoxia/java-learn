@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T06:01:20.178Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6uZ6aw0tdOFUX0bRvlVf" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-12-03T07:08:33.685Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uOUzE7f3I009sFS0RlyH" version="20.5.3" type="github" pages="6">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2222" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -802,22 +802,52 @@
         <mxCell id="VF-O5Tl96aHXoR13xGbZ-32" value="End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="900" y="245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VF-O5Tl96aHXoR13xGbZ-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1">
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VF-O5Tl96aHXoR13xGbZ-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="456" y="489.5" as="targetPoint" />
-            <mxPoint x="240" y="489.5" as="sourcePoint" />
+            <mxPoint x="456" y="482.5" as="targetPoint" />
+            <mxPoint x="240" y="482.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VF-O5Tl96aHXoR13xGbZ-35" value="常规主合同 + 合同&quot;已终止&quot;状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-34">
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-35" value="常规主合同类型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-34">
           <mxGeometry x="-0.2364" y="-1" relative="1" as="geometry">
-            <mxPoint x="18" y="-21" as="offset" />
+            <mxPoint x="10" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-39" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-33" target="VF-O5Tl96aHXoR13xGbZ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-40" value="附属协议撤销" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-39">
+          <mxGeometry x="-0.3725" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VF-O5Tl96aHXoR13xGbZ-33" value="撤销附属协议（离职、换签终止）" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="114" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="114" y="453" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VF-O5Tl96aHXoR13xGbZ-37" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-37" target="VF-O5Tl96aHXoR13xGbZ-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="483" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-46" value="处理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VF-O5Tl96aHXoR13xGbZ-44">
+          <mxGeometry x="-0.0323" relative="1" as="geometry">
+            <mxPoint x="1" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-37" value="contractStatusTransferJob" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="410" y="449.5" width="202.5" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;elbow=vertical;" edge="1" parent="1" source="VF-O5Tl96aHXoR13xGbZ-38" target="VF-O5Tl96aHXoR13xGbZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-38" value="sub_contract&lt;br&gt;contract_status: 无效&lt;br&gt;sign_status: 已撤销" style="whiteSpace=wrap;html=1;fontSize=14;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="96.5" y="563" width="155" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-42" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span&gt;&amp;nbsp;主合同&lt;/span&gt;&quot;已终止&quot;状态&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VF-O5Tl96aHXoR13xGbZ-45" value="1)合同终止日期清空&lt;br&gt;2) 恢复合同状态" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="453" width="150" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
