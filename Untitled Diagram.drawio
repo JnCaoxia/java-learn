@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T08:15:49.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="TSQZBAA9rMtZhImNJDqp" version="20.8.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:16:00.170Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vs1HEEycMMPlk1aQ_DMI" version="20.8.1" type="github" pages="7">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2187" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -930,7 +930,7 @@
             <mxPoint x="1050" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sBsuOOuqp0f7ev2Rjh-b-30" value="上传小红书私服" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sBsuOOuqp0f7ev2Rjh-b-30" value="上传私服" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sBsuOOuqp0f7ev2Rjh-b-35" value="self download url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
