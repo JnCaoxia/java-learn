@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T11:56:23.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yBSosNucQuY8AECpeW1R" version="20.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-01T12:11:04.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Vzp0ZlvDsrTa2SXGJpB3" version="20.8.1" type="github" pages="8">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2376" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -996,7 +996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k_CXZMM526OZpYvG3pnI" name="第 8 页">
-    <mxGraphModel dx="1577" dy="4053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="4029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1026,7 +1026,15 @@
         <mxCell id="wb2Kh1w09MDOB-SsigiR-2" value="部门维度统计结果&lt;br&gt;key:deptId&lt;br&gt;Map&amp;lt;String, List&amp;lt;CalibrationVo&amp;gt;&amp;gt; departmentStatisticMap;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="155" width="195" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wb2Kh1w09MDOB-SsigiR-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wb2Kh1w09MDOB-SsigiR-6" target="wb2Kh1w09MDOB-SsigiR-31">
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-79" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="wb2Kh1w09MDOB-SsigiR-6" target="qUIyXr2QyTvTlUgOoTQi-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-80" value="评估项：区分度（&lt;span style=&quot;font-family: Monaco, Monaco, &amp;quot;Courier New&amp;quot;, monospace, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 10.5pt; letter-spacing: 0pt; text-align: start;&quot;&gt;evaluationItem=5&lt;/span&gt;）&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;43cfb912fa3105527e66477ccde1e57c&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="qUIyXr2QyTvTlUgOoTQi-79">
+          <mxGeometry x="-0.225" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-83" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="wb2Kh1w09MDOB-SsigiR-6" target="qUIyXr2QyTvTlUgOoTQi-82">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wb2Kh1w09MDOB-SsigiR-6" value="deptId: List&amp;lt;CalibrationVo&amp;gt;&lt;br&gt;评估对象信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1237,6 +1245,21 @@
         </mxCell>
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-75" value="展示" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="760" width="90" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-81" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.436;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;" edge="1" parent="1" source="qUIyXr2QyTvTlUgOoTQi-78" target="wb2Kh1w09MDOB-SsigiR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-78" value="区分度看板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="qUIyXr2QyTvTlUgOoTQi-82" target="wb2Kh1w09MDOB-SsigiR-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-82" value="cali页面业绩/团队建设部门统计部门负责人信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-84" value="评估项：业绩/团队建设（&lt;span style=&quot;font-family: Monaco, Monaco, &amp;quot;Courier New&amp;quot;, monospace, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 10.5pt; letter-spacing: 0pt; text-align: start;&quot;&gt;evaluationItem=1/2&lt;/span&gt;）&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;43cfb912fa3105527e66477ccde1e57c&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="665" y="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
