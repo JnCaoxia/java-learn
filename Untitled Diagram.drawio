@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T11:13:42.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="c40p106HRE4Sdd-f-kj8" version="20.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-02-01T11:20:13.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="O64FaLXsz_wdmw7QB0C2" version="20.8.1" type="github" pages="8">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2376" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -996,7 +996,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k_CXZMM526OZpYvG3pnI" name="第 8 页">
-    <mxGraphModel dx="1518" dy="4071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="4105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1004,7 +1004,7 @@
           <mxGeometry x="880" width="380" height="290" as="geometry" />
         </mxCell>
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;dashed=1;textOpacity=0;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="300" width="575" height="510" as="geometry" />
+          <mxGeometry x="860" y="300" width="720" height="520" as="geometry" />
         </mxCell>
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-59" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="179.75" width="460" height="190.5" as="geometry" />
@@ -1165,6 +1165,11 @@
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="qUIyXr2QyTvTlUgOoTQi-44" target="qUIyXr2QyTvTlUgOoTQi-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-63" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qUIyXr2QyTvTlUgOoTQi-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-44" value="展示标签差值分数&lt;span style=&quot;color: rgb(102, 153, 0); font-family: Monaco, Monaco, &amp;quot;Courier New&amp;quot;, monospace, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color emoji&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; letter-spacing: 0pt; text-align: start; background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;teamPerformanceScore&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;088da918c74d77e11f922034729e372f&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;2e30e4150180d2dba3398e3c73d8e9a9&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="577" width="157.5" height="53" as="geometry" />
         </mxCell>
@@ -1188,7 +1193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qUIyXr2QyTvTlUgOoTQi-45" value="cali&lt;br&gt;loginuser.role not in (秘书长，主席)" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-45" value="cali&lt;br&gt;loginuser.role not in (秘书长，主席)？" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1230" y="560.25" width="157" height="86.5" as="geometry" />
         </mxCell>
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-51" value="不展示" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
@@ -1207,6 +1212,31 @@
         </mxCell>
         <mxCell id="qUIyXr2QyTvTlUgOoTQi-61" value="&lt;h1 style=&quot;font-size: 11px;&quot;&gt;业绩 / 团队建设&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;strokeWidth=2;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="1040" y="190" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-68" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qUIyXr2QyTvTlUgOoTQi-64" target="qUIyXr2QyTvTlUgOoTQi-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-69" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="qUIyXr2QyTvTlUgOoTQi-68">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-76" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="qUIyXr2QyTvTlUgOoTQi-64" target="qUIyXr2QyTvTlUgOoTQi-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-77" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="qUIyXr2QyTvTlUgOoTQi-76">
+          <mxGeometry x="-0.4286" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-64" value="confirm页面&lt;br&gt;loginUserId = 部门负责人Id?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="660" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-67" value="不展示" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="670" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qUIyXr2QyTvTlUgOoTQi-75" value="展示" style="whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="760" width="90" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
