@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T10:02:13.777Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XwWuOVAlLDkegXGJSqdW" version="22.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-10-18T10:02:44.796Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oAKGiJtrVygAdHAUkdLZ" version="22.0.4" type="github" pages="10">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2355" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1610,6 +1610,11 @@
         </mxCell>
         <mxCell id="gS_UFZDGdkV5qNjROo15-25" value="updator_no&amp;nbsp;varchar(32) not null&amp;nbsp; 更新人id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="650" width="380" height="30" as="geometry">
+            <mxRectangle width="380" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gS_UFZDGdkV5qNjROo15-26" value="update_time datetime&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;not null&amp;nbsp;&lt;/span&gt;default CURRENT_TIMESTAMP comment &#39;更新时间‘" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="680" width="470" height="20" as="geometry">
             <mxRectangle width="380" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
