@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T12:02:59.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5wAyNe1n5U_KJej83ChX" version="24.6.4" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-07-08T12:04:59.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2STRfxa2a7RKnBnGQZKl" version="24.6.4" type="github" pages="16">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2355" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4260,7 +4260,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aXsjcgrpqn-31HedRa2B-1" value="message.t_template_content(消息内容模版)" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="130" width="340" height="290" as="geometry" />
+          <mxGeometry x="-210" y="130" width="340" height="220" as="geometry" />
         </mxCell>
         <mxCell id="aXsjcgrpqn-31HedRa2B-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="aXsjcgrpqn-31HedRa2B-1">
           <mxGeometry y="30" width="340" height="30" as="geometry" />
@@ -4309,8 +4309,18 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXsjcgrpqn-31HedRa2B-13" value="module&amp;nbsp; 所属模块" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="aXsjcgrpqn-31HedRa2B-11">
+        <mxCell id="aXsjcgrpqn-31HedRa2B-13" value="content 模版内容" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="aXsjcgrpqn-31HedRa2B-11">
           <mxGeometry x="30" width="310" height="30" as="geometry">
+            <mxRectangle width="310" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXsjcgrpqn-31HedRa2B-14" value="theme 主题" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="280" width="310" height="30" as="geometry">
+            <mxRectangle width="310" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aXsjcgrpqn-31HedRa2B-15" value="module 模块" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="310" width="310" height="30" as="geometry">
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
