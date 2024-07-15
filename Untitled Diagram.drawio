@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T09:17:25.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="t8pYl2Wwd5_4VHlPcU3a" version="24.6.4" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-07-15T09:21:00.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="jzsGySGIt0mzSMw0S0bp" version="24.6.4" type="github" pages="17">
   <diagram id="OWQ0Pi7TT0yD-BRip-IE" name="Page-1">
     <mxGraphModel dx="2355" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4930,12 +4930,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x5L19GBi9YHHcg9z181W-17" value="......" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="x5L19GBi9YHHcg9z181W-1">
-          <mxGeometry x="30.882352941176464" y="215.45363636363635" width="319.1176470588235" height="32.72727272727273" as="geometry">
+          <mxGeometry x="30.882352941176464" y="230.00363636363636" width="319.1176470588235" height="32.72727272727273" as="geometry">
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x5L19GBi9YHHcg9z181W-18" value="unique_code" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="x5L19GBi9YHHcg9z181W-1">
           <mxGeometry x="30.882352941176464" y="182.72363636363633" width="319.1176470588235" height="32.72727272727273" as="geometry">
+            <mxRectangle width="310" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x5L19GBi9YHHcg9z181W-19" value="remark&amp;nbsp; 备注" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="x5L19GBi9YHHcg9z181W-1">
+          <mxGeometry x="30.882352941176464" y="210.00363636363636" width="319.1176470588235" height="32.72727272727273" as="geometry">
             <mxRectangle width="310" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
